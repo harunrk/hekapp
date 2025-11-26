@@ -1,6 +1,6 @@
 # HEK2 - Akıllı Topraksız Tarım Mobil Uygulaması
 
-Bu repository, TÜBİTAK ve KTÜ BAP birimi tarafından desteklenmiş olan **bitirme projem kapsamında geliştirdiğim mobil uygulamayı** içermektedir. Uygulama, kullanıcıların hidroponik seralarını yönetmesine ve izleyebilmesine olanak sağlar.
+Bu repository, TÜBİTAK ve KTÜ BAP birimi tarafından desteklenmiş olan **"Yapay Zekâ Tabanlı Otonom Topraksız Tarım Serası" adlı bitirme projem kapsamında geliştirdiğim mobil uygulamayı** içermektedir. Uygulama, kullanıcıların hidroponik seralarını yönetmesine ve izleyebilmesine olanak sağlar.
 
 ---
 
