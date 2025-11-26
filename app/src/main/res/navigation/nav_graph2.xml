@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph2"
+    app:startDestination="@id/kullaniciFragment">
+
+    <fragment
+        android:id="@+id/kullaniciFragment"
+        android:name="com.harun.hek.KullaniciFragment"
+        android:label="KullaniciFragment" >
+        <action
+            android:id="@+id/action_kullaniciFragment_to_anamenu"
+            app:destination="@id/anamenu" />
+    </fragment>
+    <activity
+        android:id="@+id/anamenu"
+        android:name="com.harun.hek.anamenu"
+        android:label="activity_anamenu"
+        tools:layout="@layout/activity_anamenu" />
+</navigation>
