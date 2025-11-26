@@ -5,7 +5,7 @@ Bu repository, TÜBİTAK ve KTÜ BAP birimi tarafından desteklenmiş olan **bit
 ---
 
 ## 📌 1. Uygulama Akışı
-
+![UYGULAMA GÖRÜNÜMÜ](manifest.png)
 ### Giriş Ekranı
 - Kullanıcı, uygulamayı açtığında mail ve şifre ile sisteme giriş yapar.  
 - Başarılı girişten sonra ana menüye yönlendirilir.
@@ -26,7 +26,7 @@ Bu repository, TÜBİTAK ve KTÜ BAP birimi tarafından desteklenmiş olan **bit
 ---
 
 ## 📌 2. Firebase Entegrasyonu
-
+![Firebase](firebase.png)
 - Uygulama, **Firebase Firestore** kullanarak veri tabanına bağlanır.  
 - `google-services.json` dosyası proje dizinine eklenmemiştir. Kendi entegrasyonunuzu sağlamanız gerekmektedir.  
 - Kullanıcı arayüzü, verilerin gerçek zamanlı olarak alınması ve gösterilmesine göre optimize edilmiştir.
